@@ -35,7 +35,7 @@ function-level profiling tools in the Python standard library.
 
 setup(
     name = 'line_profiler',
-    version = '1.0',
+    version = '1.0od1',
     author = 'Robert Kern',
     author_email = 'robert.kern@enthought.com',
     description = 'Line-by-line profiler.',
